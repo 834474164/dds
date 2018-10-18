@@ -1,0 +1,3562 @@
+---------------------------------------------------------------
+[ 2018-10-17T09:15:04+08:00 ] 127.0.0.1 POST dadongsheng.com/index/index/index
+[运行时间：0.032746s] [吞吐率：30.54req/s] [内存消耗：1,335.11kb] [文件加载：65]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '9b6a38cd-5235-4920-aaf9-54de76343027',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'index/index/index' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T09:15:19+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.027991s] [吞吐率：35.73req/s] [内存消耗：1,334.52kb] [文件加载：65]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '5330df30-775a-41a6-9e1d-e80879ea9649',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-17T09:15:47+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.034474s] [吞吐率：29.01req/s] [内存消耗：1,483.26kb] [文件加载：69]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '79f11047-a3bb-4dc0-a4c5-cb0708a0ba92',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:17:08+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.029868s] [吞吐率：33.48req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '2dccb445-bca1-4568-9bb4-144918e7cc59',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:17:19+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.027275s] [吞吐率：36.66req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'ca997b57-21e7-4b9e-8652-42bdfe8e9b79',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:20:14+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.026252s] [吞吐率：38.09req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'b50a1507-3386-4fc3-bfe5-aa01ce17cd8c',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:20:20+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.028812s] [吞吐率：34.71req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '56927562-4666-43e0-9b0d-5061d08aabd9',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:20:21+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.033843s] [吞吐率：29.55req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'a11e1f96-7688-411c-9086-6d5f456afc6c',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:20:21+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.027050s] [吞吐率：36.97req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '4eb03514-fc5d-4694-a246-538dbbe40ceb',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:20:22+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.027451s] [吞吐率：36.43req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'bba60f87-30b1-453c-a4a4-703353b3b917',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:20:22+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.027948s] [吞吐率：35.78req/s] [内存消耗：1,370.55kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '2e5b726f-4919-43f6-b8af-d465a4b30d81',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:21:42+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/home/index/index
+[运行时间：0.024137s] [吞吐率：41.43req/s] [内存消耗：1,185.51kb] [文件加载：61]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '6a30bf6c-c11d-4cfb-86a7-689b212a9d7e',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-17T09:23:04+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/home/index/index
+[运行时间：0.025788s] [吞吐率：38.78req/s] [内存消耗：1,295.54kb] [文件加载：65]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'd21c46d5-33e2-4a96-bcaf-25a7dc749183',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-17T09:25:51+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/admin/index/index
+[运行时间：0.029936s] [吞吐率：33.40req/s] [内存消耗：1,295.54kb] [文件加载：65]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'ffafe011-3477-4926-a6af-2e48e97f499d',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-17T09:46:16+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/admin/index/index
+[运行时间：0.028294s] [吞吐率：35.34req/s] [内存消耗：1,373.12kb] [文件加载：69]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------378225782638642408234555',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '3410ced0-2b2d-4900-8828-aa118cc8908c',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ VIEW ] D:\WWW\dds\thinkphp/tpl/dispatch_jump_code.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'count',
+  4 => 'url',
+  5 => 'wait',
+) ]
+---------------------------------------------------------------
+[ 2018-10-17T09:46:40+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/index/index/index
+[运行时间：0.024144s] [吞吐率：41.42req/s] [内存消耗：1,018.95kb] [文件加载：56]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+[ 2018-10-17T09:47:27+08:00 ] 127.0.0.1 POST dadongsheng.com/home/index/index
+[运行时间：0.024422s] [吞吐率：40.95req/s] [内存消耗：1,297.99kb] [文件加载：65]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------695638812212733663727931',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'ebf8bf73-aa6a-4846-9298-c8d58276ad4e',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'home/index/index' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+---------------------------------------------------------------
+[ 2018-10-17T10:22:44+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.028926s] [吞吐率：34.57req/s] [内存消耗：1,301.55kb] [文件加载：66]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------675829681711824341917431',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'd762a28c-bb00-4709-918d-fccfbd48f009',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+---------------------------------------------------------------
+[ 2018-10-17T10:23:21+08:00 ] 127.0.0.1 POST dadongsheng.com/index.php/admin/login/login
+[运行时间：0.031449s] [吞吐率：31.80req/s] [内存消耗：1,301.48kb] [文件加载：66]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------696487630538046560761476',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'cdc4aac2-1370-4f28-abaa-6244c69a478f',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+---------------------------------------------------------------
+[ 2018-10-17T10:23:28+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.029426s] [吞吐率：33.98req/s] [内存消耗：1,301.55kb] [文件加载：66]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------170191518088840659063957',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'c315ea06-19d9-433f-891a-0400eefc3474',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+---------------------------------------------------------------
+[ 2018-10-17T10:25:03+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.031277s] [吞吐率：31.97req/s] [内存消耗：1,342.57kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------737905034406783067847193',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'e871c465-043f-4615-bc75-0d1b64c7a88a',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ error ] [0]致命错误: Call to undefined function app\admin\controller\reuqest()[D:\WWW\dds\application\admin\controller\Login.php:18]
+---------------------------------------------------------------
+[ 2018-10-17T10:25:18+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.696046s] [吞吐率：1.44req/s] [内存消耗：131,166.32kb] [文件加载：70]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------314249211553754578508834',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '6bc4037e-bca2-4d80-8aac-d6289c92657b',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ error ] [1]Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes)[D:\WWW\dds\thinkphp\library\think\Loader.php:375]
+---------------------------------------------------------------
+[ 2018-10-17T10:30:47+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：1.348911s] [吞吐率：0.74req/s] [内存消耗：258,833.75kb] [文件加载：70]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------850443336457550501617547',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '74cf5564-2ea9-4fa9-90b4-6272d978b4f5',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ error ] [1]Allowed memory size of 268435456 bytes exhausted (tried to allocate 4096 bytes)[D:\WWW\dds\thinkphp\library\think\Validate.php:538]
+---------------------------------------------------------------
+[ 2018-10-17T10:31:55+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：2.055684s] [吞吐率：0.49req/s] [内存消耗：388,508.63kb] [文件加载：70]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------097901367725266676193214',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'c8f3cd42-91fc-472c-8862-003455d37a67',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ error ] [1]Allowed memory size of 268435456 bytes exhausted (tried to allocate 4096 bytes)[D:\WWW\dds\thinkphp\library\think\Validate.php:603]
+---------------------------------------------------------------
+[ 2018-10-17T10:32:25+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.031362s] [吞吐率：31.89req/s] [内存消耗：1,340.52kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------925679250077759232097716',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '2001908e-6ea7-4e08-9845-666dd552ef72',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ error ] [0]方法不存在:think\Request->params[D:\WWW\dds\thinkphp\library\think\Request.php:334]
+---------------------------------------------------------------
+[ 2018-10-17T10:33:32+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.032570s] [吞吐率：30.70req/s] [内存消耗：1,343.13kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------472988349354767369503135',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'dba85865-dad7-4f5e-a2a2-e2fdd1c272b7',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ error ] [0]类型错误: Argument 1 passed to think\Request::withPost() must be of the type array, none given, called in D:\WWW\dds\application\admin\controller\Login.php on line 18[D:\WWW\dds\thinkphp\library\think\Request.php:2048]
+---------------------------------------------------------------
+[ 2018-10-17T10:34:05+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.021517s] [吞吐率：46.47req/s] [内存消耗：1,190.63kb] [文件加载：62]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------534039692178883749139359',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '59795ef3-b298-4040-8da6-1ad75f2a7dec',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+---------------------------------------------------------------
+[ 2018-10-17T10:35:00+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.039708s] [吞吐率：25.18req/s] [内存消耗：2,080.66kb] [文件加载：74]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------523888141120598158634930',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'ee21cd24-7193-412e-841d-935a2ea9a6da',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:think\db\Query->login[D:\WWW\dds\thinkphp\library\think\db\Query.php:178]
+---------------------------------------------------------------
+[ 2018-10-17T10:35:26+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.037197s] [吞吐率：26.88req/s] [内存消耗：2,080.66kb] [文件加载：74]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------003594810288326591891633',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '4a0decbf-b79b-4616-920d-88b77482c738',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:think\db\Query->login[D:\WWW\dds\thinkphp\library\think\db\Query.php:178]
+---------------------------------------------------------------
+[ 2018-10-17T10:36:01+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.040077s] [吞吐率：24.95req/s] [内存消耗：2,080.70kb] [文件加载：74]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------016558361509457816199693',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '13f7ccfb-27ff-4299-acf5-39faba109eac',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:think\db\Query->login[D:\WWW\dds\thinkphp\library\think\db\Query.php:178]
+---------------------------------------------------------------
+[ 2018-10-17T10:39:57+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.080241s] [吞吐率：12.46req/s] [内存消耗：2,398.66kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------871767582928891446780656',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '8dfe9aad-d67c-49fa-a06f-f3512d44a681',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028526s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dds.dds_dds_user' doesn't exist[D:\WWW\dds\thinkphp\library\think\db\Connection.php:699]
+---------------------------------------------------------------
+[ 2018-10-17T10:40:26+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.057721s] [吞吐率：17.32req/s] [内存消耗：2,398.60kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------698501604033573083528531',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '3893c031-b74e-4171-b700-fc641f9c748f',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010374s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dds.dds_user' doesn't exist[D:\WWW\dds\thinkphp\library\think\db\Connection.php:699]
+---------------------------------------------------------------
+[ 2018-10-17T10:40:48+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.052923s] [吞吐率：18.90req/s] [内存消耗：2,399.02kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------701524791901383128416029',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '7e4e11fa-5fef-4654-8572-b370c91f07dd',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001778s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dds.dds_user' doesn't exist[D:\WWW\dds\thinkphp\library\think\db\Connection.php:699]
+---------------------------------------------------------------
+[ 2018-10-17T10:42:28+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.044664s] [吞吐率：22.39req/s] [内存消耗：2,367.88kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------507817097614670359826885',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'eb72737e-6d18-4c7c-8fc2-162988c1c248',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:think\db\Query->login[D:\WWW\dds\thinkphp\library\think\db\Query.php:178]
+---------------------------------------------------------------
+[ 2018-10-17T10:43:09+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.043902s] [吞吐率：22.78req/s] [内存消耗：2,354.16kb] [文件加载：75]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------797803518113299485242414',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '84e7ddcc-8903-4621-9e17-1c73eb6f78da',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001376s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008489s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000353s ]
+---------------------------------------------------------------
+[ 2018-10-17T10:46:12+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.053787s] [吞吐率：18.59req/s] [内存消耗：2,354.80kb] [文件加载：75]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------455071325098576850313657',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'a043eb94-348b-41c6-8d96-ffda00eed3cd',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010055s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007734s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000379s ]
+---------------------------------------------------------------
+[ 2018-10-17T10:47:08+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.064555s] [吞吐率：15.49req/s] [内存消耗：2,354.79kb] [文件加载：75]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------804205094033889280772323',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '7f6614bc-b4a9-4fd2-8bc0-77b3f7dcb44d',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024850s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007768s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000446s ]
+---------------------------------------------------------------
+[ 2018-10-17T10:47:24+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.044027s] [吞吐率：22.71req/s] [内存消耗：2,354.82kb] [文件加载：75]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------026018408483533705398777',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '8490419a-5da0-4901-9d54-9f7546daa5f9',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001644s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009139s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000391s ]
+---------------------------------------------------------------
+[ 2018-10-17T11:29:24+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.027973s] [吞吐率：35.75req/s] [内存消耗：1,302.32kb] [文件加载：65]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------852192034576884328174689',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '54319974-8e1b-4db8-b48d-d8c7ed166d23',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[D:\WWW\dds\application\admin\controller\Login.php:61]
+---------------------------------------------------------------
+[ 2018-10-17T11:29:42+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.078478s] [吞吐率：12.74req/s] [内存消耗：2,354.89kb] [文件加载：75]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------484714232463306703254793',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '84e0be20-b5ca-412b-8766-f150e91fc5ef',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.035156s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007396s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000375s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:05:26+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.081310s] [吞吐率：12.30req/s] [内存消耗：2,445.00kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------262894091410033066535220',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '9e515da1-8437-4488-82f7-c7153e23c407',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028120s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008974s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000449s ]
+[ error ] [8]未定义变量: trunPassword[D:\WWW\dds\application\admin\controller\Login.php:53]
+---------------------------------------------------------------
+[ 2018-10-17T15:05:48+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.073066s] [吞吐率：13.69req/s] [内存消耗：2,422.97kb] [文件加载：85]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------314704610710224810832022',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '5e049c0a-f72f-4367-abda-51177fdebb8c',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012779s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006863s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000382s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008333s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000511s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'token' cannot be null[D:\WWW\dds\thinkphp\library\think\db\Connection.php:783]
+---------------------------------------------------------------
+[ 2018-10-17T15:06:36+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.063639s] [吞吐率：15.71req/s] [内存消耗：2,423.27kb] [文件加载：85]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------133139615423954567966600',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'bad00912-5731-4b5a-8bda-eeab0040d03a',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001735s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.010407s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000383s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006667s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000421s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'token' cannot be null[D:\WWW\dds\thinkphp\library\think\db\Connection.php:783]
+---------------------------------------------------------------
+[ 2018-10-17T15:07:46+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.062412s] [吞吐率：16.02req/s] [内存消耗：2,385.67kb] [文件加载：78]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------058913069069237997653761',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'eb0565fa-7d2d-4bd8-8224-d38d38db334f',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010507s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008281s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000364s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:08:20+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.067989s] [吞吐率：14.71req/s] [内存消耗：2,454.86kb] [文件加载：84]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------243031436108379031283291',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '9bfc989f-9386-47f4-9f7c-6c9f55fd1313',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011702s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007729s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000365s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006911s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000290s ]
+[ error ] [8]未定义变量: managerInfo[D:\WWW\dds\application\admin\controller\Login.php:82]
+---------------------------------------------------------------
+[ 2018-10-17T15:08:32+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.065022s] [吞吐率：15.38req/s] [内存消耗：2,398.21kb] [文件加载：79]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------611935518040204231854484',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'b3a275a1-b41b-4414-9f9b-d8073453e9d8',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011039s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008284s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000405s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007079s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000368s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:09:04+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.064024s] [吞吐率：15.62req/s] [内存消耗：2,422.94kb] [文件加载：85]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------562357140376726709964792',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'dbdcd938-ffbb-41d8-9934-8a9ac5cb4cd1',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001651s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006895s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000346s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007660s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000383s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'token' cannot be null[D:\WWW\dds\thinkphp\library\think\db\Connection.php:783]
+---------------------------------------------------------------
+[ 2018-10-17T15:09:56+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.067307s] [吞吐率：14.86req/s] [内存消耗：2,423.20kb] [文件加载：85]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------673846152711817139738003',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '543134d1-8cda-4817-ae68-37edfa55069a',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002593s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007536s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000343s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009261s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000307s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'token' cannot be null[D:\WWW\dds\thinkphp\library\think\db\Connection.php:783]
+---------------------------------------------------------------
+[ 2018-10-17T15:10:57+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.062850s] [吞吐率：15.91req/s] [内存消耗：2,422.13kb] [文件加载：85]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------277082986581663235888719',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '53093e83-67b7-463b-8dd6-b183364aff14',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003117s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007027s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000362s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007575s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000300s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'token' cannot be null[D:\WWW\dds\thinkphp\library\think\db\Connection.php:783]
+---------------------------------------------------------------
+[ 2018-10-17T15:11:19+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.059806s] [吞吐率：16.72req/s] [内存消耗：2,456.67kb] [文件加载：84]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------187897774591339397770127',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '9103caab-5f4e-4d66-b27e-8399a5c76cee',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001707s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008715s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000410s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008610s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000454s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000341s ]
+[ error ] [8]未定义变量: managerinfo[D:\WWW\dds\application\admin\controller\Login.php:80]
+---------------------------------------------------------------
+[ 2018-10-17T15:12:37+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.062764s] [吞吐率：15.93req/s] [内存消耗：2,455.20kb] [文件加载：84]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------082288403077607215008060',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '021f4f63-885f-4d4f-833d-28b1e6b65bfd',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001485s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007589s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000365s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008030s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000346s ]
+[ error ] [8]未定义变量: res[D:\WWW\dds\application\admin\model\Admintoken.php:34]
+---------------------------------------------------------------
+[ 2018-10-17T15:12:44+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.066377s] [吞吐率：15.07req/s] [内存消耗：2,422.97kb] [文件加载：85]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------814179460682184330848753',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '61aceb9b-5cae-4e90-a56c-2f016f305c2d',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001946s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007443s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000424s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008962s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000485s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'token' cannot be null[D:\WWW\dds\thinkphp\library\think\db\Connection.php:783]
+---------------------------------------------------------------
+[ 2018-10-17T15:13:00+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.081512s] [吞吐率：12.27req/s] [内存消耗：2,376.36kb] [文件加载：77]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------413840363050319004964043',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'c8966a89-22ac-489f-9b74-019a671adf78',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027052s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007567s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000419s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007061s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000300s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:13:38+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.064264s] [吞吐率：15.56req/s] [内存消耗：2,457.65kb] [文件加载：84]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------197862264192626429266346',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'f43b59f0-4e55-4bb6-a371-a202d0e2b0be',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001952s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009709s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000384s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006892s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000353s ]
+[ sql ] [ SQL ] INSERT INTO `dds_admintoken` (`manager_id` , `token` , `info` , `expire_at`) VALUES (1 , '77b60ee3a223d9b63cbade51b83d7e60' , 'dadongsheng' , '1539760418') [ RunTime:0.000321s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000252s ]
+[ error ] [8]未定义变量: managerinfo[D:\WWW\dds\application\admin\controller\Login.php:80]
+---------------------------------------------------------------
+[ 2018-10-17T15:13:58+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.060675s] [吞吐率：16.48req/s] [内存消耗：2,453.09kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------668281568573596990221041',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '894eceb7-b490-4a47-9d41-b596c1f378cf',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001850s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009632s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000307s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006891s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000298s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:15:00+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.055819s] [吞吐率：17.92req/s] [内存消耗：2,378.27kb] [文件加载：77]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------324699320473018435733590',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '2ef4fc17-bf33-4276-b0e1-5c77e81657e4',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002497s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009657s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000411s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007224s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000336s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:16:49+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.063834s] [吞吐率：15.67req/s] [内存消耗：2,453.38kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------730444401812107030369665',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'b8362469-e845-403c-9f36-fb6082655dc8',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001541s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006867s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000421s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007264s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000316s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:22:56+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.083788s] [吞吐率：11.93req/s] [内存消耗：2,453.20kb] [文件加载：84]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------242374037860636610845963',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '316425d6-04e2-48fd-af9b-a37b76612db3',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034468s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007722s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000404s ]
+[ error ] [8]未定义变量: res[D:\WWW\dds\application\admin\model\Admintoken.php:14]
+---------------------------------------------------------------
+[ 2018-10-17T15:23:04+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.062526s] [吞吐率：15.99req/s] [内存消耗：2,453.09kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------517401524991820598650287',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '5424ef7b-26ea-4a19-8055-363b103a2a4e',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001424s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007081s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000304s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007526s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000334s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:24:08+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.073998s] [吞吐率：13.51req/s] [内存消耗：2,453.13kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------235583904206158465132126',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '1e4256ab-7c47-4ad1-b3d8-4bc3ffecc123',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010091s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007262s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000346s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.013620s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000328s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:26:18+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.064748s] [吞吐率：15.44req/s] [内存消耗：2,452.98kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------785196005110152993121252',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '55977f84-a79f-4cc1-a2c6-ba5a472dd61b',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002194s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007255s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000423s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007152s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000393s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:27:30+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.062532s] [吞吐率：15.99req/s] [内存消耗：2,453.28kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------804596474351327315393964',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '3118243d-11e1-4dcb-9084-b3bb8b835d8a',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001663s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008568s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009679s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000335s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:27:41+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.062247s] [吞吐率：16.07req/s] [内存消耗：2,453.28kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------796274465505165353488193',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '23560c73-56e0-474f-aba4-9c0c760ca1e0',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002020s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.010158s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000395s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007265s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000379s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:28:05+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.061606s] [吞吐率：16.23req/s] [内存消耗：2,452.95kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------388400072668513712539972',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '9cb906b3-550d-41ce-a1ed-d0a0b18125fc',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001581s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008715s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000510s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009332s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000426s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:28:23+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.056791s] [吞吐率：17.61req/s] [内存消耗：2,413.11kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------995341560628914890028314',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '532b635d-b448-474a-8498-bf82801709d7',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001337s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006832s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007280s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000311s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000239s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:30:04+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.083909s] [吞吐率：11.92req/s] [内存消耗：2,453.09kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------969496496416009751613478',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'cf722402-986e-4c26-a9e1-668ee653700a',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024378s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007619s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006718s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000315s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:30:31+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.058499s] [吞吐率：17.09req/s] [内存消耗：2,455.39kb] [文件加载：84]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------028430260210114848978329',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'd8e81ef6-dcef-4d11-9bb3-d898bbc99038',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001597s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007275s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006657s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000456s ]
+[ error ] [8]未定义变量: res[D:\WWW\dds\application\admin\model\Admintoken.php:24]
+---------------------------------------------------------------
+[ 2018-10-17T15:31:03+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.065479s] [吞吐率：15.27req/s] [内存消耗：2,452.84kb] [文件加载：83]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------090889986671422206887156',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '148e4295-5b62-4997-848d-6df4b2d6211f',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001535s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008081s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000475s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.011384s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000345s ]
+[ error ] [0]数据表字段不存在:[0][D:\WWW\dds\thinkphp\library\think\db\Builder.php:135]
+---------------------------------------------------------------
+[ 2018-10-17T15:31:51+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.052337s] [吞吐率：19.11req/s] [内存消耗：2,378.34kb] [文件加载：77]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------422493600773499883020298',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '06cf4e7b-2fd7-4f23-9d0c-1c1e2532f9fc',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001452s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006850s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008034s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000402s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:32:20+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.061463s] [吞吐率：16.27req/s] [内存消耗：2,378.34kb] [文件加载：77]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------587002683086929548184226',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'd284853c-1095-4dbe-9050-1020f96fc0f4',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001798s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.011462s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000389s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008069s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000739s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:32:35+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.057393s] [吞吐率：17.42req/s] [内存消耗：2,413.63kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------607379737408221220841933',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '33554cad-2e2f-4f40-bf94-b4724bb4027b',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001632s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.010434s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000309s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007705s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000454s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '11a191d1fc8372543f5fbc17310ebbeb' , `expire_at` = '1539761555'  WHERE  `manager_id` = 1 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000260s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:33:06+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.056378s] [吞吐率：17.74req/s] [内存消耗：2,413.63kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------834450538324920128352636',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'e1563471-d586-4910-8fd8-cab07bbefe55',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001413s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009033s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000487s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006831s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000370s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '13fd4331d3e156304dcca40f12e5c96a' , `expire_at` = '1539761586'  WHERE  `manager_id` = 1 [ RunTime:0.000270s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000277s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:34:21+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.058106s] [吞吐率：17.21req/s] [内存消耗：2,413.63kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------787591988074202467650037',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '7c30df05-a9b7-41b5-94c8-db5e495c6ed1',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001610s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007304s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000303s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007237s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000438s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '6c2540e89b85bc76e09909568dfed551' , `expire_at` = '1539761661'  WHERE  `manager_id` = 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000351s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:35:33+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.055929s] [吞吐率：17.88req/s] [内存消耗：2,413.48kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------013402210207850636459242',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '29fa8128-5b05-4876-b95e-fbeb3625891e',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002384s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008965s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000381s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006774s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000355s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '7af653d3ed1b8b9cf946ebff69cf2070' , `expire_at` = 1539761733  WHERE  `manager_id` = 1 [ RunTime:0.000316s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000358s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:35:33+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.053675s] [吞吐率：18.63req/s] [内存消耗：2,413.48kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------650770057120246690010676',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '21a15451-d9ce-4c37-9cc6-ab067c87c9be',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001365s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007709s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000327s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007121s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000332s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '5565a5ae9a9bf3d9e1fff6786e3a538c' , `expire_at` = 1539761733  WHERE  `manager_id` = 1 [ RunTime:0.000267s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000239s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:36:53+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.057663s] [吞吐率：17.34req/s] [内存消耗：2,413.48kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------485013092982830820308484',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '9d7ce1ec-586f-4aec-bab9-3ebfe137965d',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002850s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006580s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000293s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008571s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000337s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '570963cfafb15f39dae1a6cabf18d6a9' , `expire_at` = 1539761813  WHERE  `manager_id` = 1 [ RunTime:0.000244s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000234s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:37:02+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.065515s] [吞吐率：15.26req/s] [内存消耗：2,413.48kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------613449493691050701073759',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'c93d88a7-9dbd-40a8-b361-f9d68e3a01aa',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010455s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007351s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000367s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006845s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000415s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '79932106724e3f4953ef062f36efff25' , `expire_at` = 1539761822  WHERE  `manager_id` = 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000312s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:37:02+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.057085s] [吞吐率：17.52req/s] [内存消耗：2,413.48kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------415265395031831752610795',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '224fb100-a023-4739-b796-1d9d6725bd88',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001464s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008763s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007072s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000348s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = 'aaabaa3b6a63d8413ead1bca4cb00c3c' , `expire_at` = 1539761822  WHERE  `manager_id` = 1 [ RunTime:0.000270s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000250s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:37:02+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.059874s] [吞吐率：16.70req/s] [内存消耗：2,413.48kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------403134699675976780582144',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'dfea7440-5b72-4a10-87c7-248d555ecb58',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001466s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.010370s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000523s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009193s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000307s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '70aeb6199997bf33d4a8333a713c3a4c' , `expire_at` = 1539761822  WHERE  `manager_id` = 1 [ RunTime:0.000236s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000236s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:37:03+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.056090s] [吞吐率：17.83req/s] [内存消耗：2,413.48kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '287',
+  'content-type' => 'multipart/form-data; boundary=--------------------------735100460894126154773462',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '3d4f8c8c-a10e-4b9e-a1b8-e4d6bf604c30',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'dadongsheng',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002043s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006827s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'dadongsheng' LIMIT 1 [ RunTime:0.000362s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007574s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000443s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' , `expire_at` = 1539761823  WHERE  `manager_id` = 1 [ RunTime:0.000316s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 1 LIMIT 1 [ RunTime:0.000395s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:40:12+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.085999s] [吞吐率：11.63req/s] [内存消耗：2,412.38kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '284',
+  'content-type' => 'multipart/form-data; boundary=--------------------------399762883063451643356447',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'f7fbedf3-4818-4cf4-a43a-18ee1163afc0',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.033958s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006911s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007343s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000352s ]
+[ sql ] [ SQL ] INSERT INTO `dds_admintoken` (`manager_id` , `token` , `info` , `expire_at`) VALUES (2 , '1505e8b9c352682e2d943b07856f75a8' , 'xiaoming' , 1539762012) [ RunTime:0.000297s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000290s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:43:15+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.030385s] [吞吐率：32.91req/s] [内存消耗：1,438.02kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '171',
+  'content-type' => 'multipart/form-data; boundary=--------------------------318250984420682614399858',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'd1e01879-2961-4c05-8d98-dd6fd1b5d309',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+)
+---------------------------------------------------------------
+[ 2018-10-17T15:43:27+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.026942s] [吞吐率：37.12req/s] [内存消耗：1,438.02kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'content-type' => 'multipart/form-data; boundary=--------------------------245510599337528647764913',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '8bd1abed-246f-4bd2-84f9-80593987b04c',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T15:43:32+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.024742s] [吞吐率：40.42req/s] [内存消耗：1,438.02kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '169',
+  'content-type' => 'multipart/form-data; boundary=--------------------------605638148880507482943890',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '388a1341-5c08-449b-8e83-c82650912fd2',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'password' => '666666',
+)
+---------------------------------------------------------------
+[ 2018-10-17T15:43:35+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.064491s] [吞吐率：15.51req/s] [内存消耗：2,412.31kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '284',
+  'content-type' => 'multipart/form-data; boundary=--------------------------088645399204079741159265',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'f7a75f5d-6fab-4175-81e8-ef2f820244a8',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010385s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009118s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000445s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007344s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '4277af21967046037e8ba5299e2437b3' , `expire_at` = 1539762215  WHERE  `manager_id` = 2 [ RunTime:0.000250s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000241s ]
+---------------------------------------------------------------
+[ 2018-10-17T15:43:39+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.045168s] [吞吐率：22.14req/s] [内存消耗：2,399.89kb] [文件加载：80]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '285',
+  'content-type' => 'multipart/form-data; boundary=--------------------------255314999894366532195058',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'fa16bf41-44a6-4076-b2c9-9a1a2939890c',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '6666661',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001759s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008835s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000301s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:05:36+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.030374s] [吞吐率：32.92req/s] [内存消耗：1,292.93kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'ccb788d3-7d60-416c-a99c-f9c14daa7f36',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:06:07+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.027551s] [吞吐率：36.30req/s] [内存消耗：1,292.93kb] [文件加载：67]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '319db100-2d65-43a3-b52d-4130dbe63337',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:21:12+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.029311s] [吞吐率：34.12req/s] [内存消耗：1,306.00kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'e8ec5b79-c044-4495-af07-f7622a098fa6',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:22:36+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.025535s] [吞吐率：39.16req/s] [内存消耗：1,308.02kb] [文件加载：69]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'a506b48d-1e2f-4126-8ea0-0c5483db47c1',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:22:43+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.024311s] [吞吐率：41.13req/s] [内存消耗：1,257.45kb] [文件加载：64]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'b3272853-83ba-407a-9bbb-7b7e0436f28a',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:22:57+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.029989s] [吞吐率：33.35req/s] [内存消耗：1,257.52kb] [文件加载：64]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'f581baec-0a9a-4fb5-a680-02302ba9e1c5',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:24:41+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.026170s] [吞吐率：38.21req/s] [内存消耗：1,258.08kb] [文件加载：64]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '2600b8d6-b279-4a49-9db6-03b3f5bc4c32',
+  'cache-control' => 'no-cache',
+  'authorization44rt' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:24:53+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.023442s] [吞吐率：42.66req/s] [内存消耗：1,257.52kb] [文件加载：64]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'a103538a-6e08-4fa5-b5e8-825f76d254b8',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:25:04+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.022389s] [吞吐率：44.66req/s] [内存消耗：1,258.07kb] [文件加载：64]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '770bc441-30ef-4d96-b767-c6ebc2b9fd2a',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:25:37+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.073633s] [吞吐率：13.58req/s] [内存消耗：2,260.48kb] [文件加载：79]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '62c82e20-901a-4126-8f05-87e744b84db9',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027722s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007715s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000314s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:25:44+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.046455s] [吞吐率：21.53req/s] [内存消耗：2,271.10kb] [文件加载：80]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '4657777e-b357-4394-b8bf-704187669b28',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b91',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001736s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.011363s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b91' LIMIT 1 [ RunTime:0.000360s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:25:49+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.024347s] [吞吐率：41.07req/s] [内存消耗：1,306.00kb] [文件加载：68]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '7aecf2d4-be1b-4adf-a8a8-16aa5edca4d8',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+---------------------------------------------------------------
+[ 2018-10-17T16:25:55+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.055074s] [吞吐率：18.16req/s] [内存消耗：2,260.48kb] [文件加载：79]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '0',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'c8acc41e-82dd-4699-bac1-9748fb37c2fd',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011245s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006648s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000473s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:35:11+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.076733s] [吞吐率：13.03req/s] [内存消耗：2,317.22kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '289',
+  'content-type' => 'multipart/form-data; boundary=--------------------------253725101246338302368114',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '861a5c27-fcc6-4a06-89e1-75a9056be00c',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028299s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008154s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000415s ]
+[ error ] [0]致命错误: Class 'app\admin\controller\Validate' not found[D:\WWW\dds\application\admin\controller\Manager.php:33]
+---------------------------------------------------------------
+[ 2018-10-17T16:35:37+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.052619s] [吞吐率：19.00req/s] [内存消耗：2,398.84kb] [文件加载：80]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '289',
+  'content-type' => 'multipart/form-data; boundary=--------------------------152839167963523786895370',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '5a590fc8-0ac4-467c-be89-4f31e1e31bbf',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001499s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.011068s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000398s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:36:19+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.048781s] [吞吐率：20.50req/s] [内存消耗：2,402.66kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '289',
+  'content-type' => 'multipart/form-data; boundary=--------------------------402920702664590794113795',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '91156a5f-2313-4079-b7e4-9340400d6d95',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001424s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007598s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000371s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:36:24+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.049772s] [吞吐率：20.09req/s] [内存消耗：2,389.47kb] [文件加载：79]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------490658316634172006677881',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '8107b339-d792-440f-b7f3-73deb0ed7d1f',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001817s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.010617s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000447s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:36:28+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.046555s] [吞吐率：21.48req/s] [内存消耗：2,402.66kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '289',
+  'content-type' => 'multipart/form-data; boundary=--------------------------030674940228505991832992',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'a04ca0b5-18b8-477e-b07e-fd07b8d71a2f',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001476s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008735s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000487s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:36:33+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.047046s] [吞吐率：21.26req/s] [内存消耗：2,402.58kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '173',
+  'content-type' => 'multipart/form-data; boundary=--------------------------283169095146539811252060',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '6eabd9d6-9b1c-496b-89ca-abf0438f8ebb',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001811s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008865s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000397s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:36:36+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.058845s] [吞吐率：16.99req/s] [内存消耗：2,402.66kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '288',
+  'content-type' => 'multipart/form-data; boundary=--------------------------409851162994411018503040',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '64a6bce4-1afa-4c71-a294-0c0aa5d88204',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010993s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007657s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000317s ]
+---------------------------------------------------------------
+[ 2018-10-17T16:36:40+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.050871s] [吞吐率：19.66req/s] [内存消耗：2,389.47kb] [文件加载：79]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------919945895674495448687517',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '2d553a43-ff97-44c9-97ae-e2ff0f46fe4b',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001443s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007451s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000335s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:38:33+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.097124s] [吞吐率：10.30req/s] [内存消耗：2,460.00kb] [文件加载：85]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------658584125077715248581313',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'a67375a0-7bef-4ea4-8085-4a0b5d0c9b96',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.037753s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007746s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000429s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007780s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000461s ]
+[ error ] [8]未定义变量: newpassword[D:\WWW\dds\application\admin\controller\Manager.php:67]
+---------------------------------------------------------------
+[ 2018-10-17T17:39:11+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.058301s] [吞吐率：17.15req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------647613132639979825092871',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '68f7a42b-daa7-460e-bf41-7e6752bf8f75',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001500s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009270s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.001788s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007353s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000382s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = 'ad28485742be8ed955a5142668dc8880' , `salt` = '1693cebda'  WHERE  `id` = 1 [ RunTime:0.000356s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:39:45+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.056060s] [吞吐率：17.84req/s] [内存消耗：2,416.73kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------641846540965658657196971',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'a32b30e5-5979-4093-9e35-2f2bc0293720',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001351s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007345s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000301s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007672s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000415s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:39:58+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.055852s] [吞吐率：17.90req/s] [内存消耗：2,416.73kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------327059004214191094167620',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'ab6eb7e7-7375-4a5c-a786-d47480c8e520',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002326s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009546s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008028s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000357s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:40:07+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.053806s] [吞吐率：18.59req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------915035070100849207281798',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'c3a50511-db4c-4809-b60c-79c9d3047e77',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001416s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006943s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000308s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007473s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000330s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = 'c36727bf009d177fa4f7f18db7d99fa1' , `salt` = '9578bdcea'  WHERE  `id` = 1 [ RunTime:0.000304s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:40:36+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.070857s] [吞吐率：14.11req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------102458760966833311169760',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '4488a800-ade6-4f5f-982c-a08370265b54',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011381s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008062s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000382s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007083s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000355s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '40d91ed803c363ba73e0772aaac52422' , `salt` = '8560dbcae'  WHERE  `id` = 1 [ RunTime:0.000404s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:40:41+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.054105s] [吞吐率：18.48req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------967571153640709357757535',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'f510eab8-43d5-4403-bd3a-8aff1cbfd27b',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '888888',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001577s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009639s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000324s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007774s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000316s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '5f63be9d6edb5954cf4d37a1294e16e9' , `salt` = '9673edcab'  WHERE  `id` = 1 [ RunTime:0.000247s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:40:52+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.052669s] [吞吐率：18.99req/s] [内存消耗：2,416.73kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------717998730543997849817984',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '40e39e83-3dd0-4089-b6bf-f9dabf53fdc4',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '666666',
+  'oncepassword' => '888888',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001651s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007772s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000394s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007686s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000343s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:41:00+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.064631s] [吞吐率：15.47req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------690443904147640759006019',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'd1057da5-24ec-4f46-a685-7830a4a19b63',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011765s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007623s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000343s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006578s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000280s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '870c532935c3858bf1ccde24dc6b856a' , `salt` = '2983cdbea'  WHERE  `id` = 1 [ RunTime:0.000256s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:41:05+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.055611s] [吞吐率：17.98req/s] [内存消耗：2,416.73kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------520606295738945277668884',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '591ca278-ea11-4fd2-bbf2-3f888ff2858c',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002651s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007491s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007976s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000377s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:41:09+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.054065s] [吞吐率：18.50req/s] [内存消耗：2,416.73kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------255753297873221459703911',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '6301e3d9-0180-43a3-baaa-4fc49b3db1a8',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001563s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007556s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000352s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008885s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001080s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:41:51+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.055736s] [吞吐率：17.94req/s] [内存消耗：2,416.73kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------332090817900584484301649',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '9af6d408-9c85-4746-bfb1-9bd9806d81fe',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001514s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009349s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000308s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007496s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000287s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:41:56+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.047157s] [吞吐率：21.21req/s] [内存消耗：2,402.70kb] [文件加载：80]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '289',
+  'content-type' => 'multipart/form-data; boundary=--------------------------287372982694369338337516',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'b2a1692f-3a97-40c7-98d1-2e9359eae448',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001552s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006938s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000286s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:42:01+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.040852s] [吞吐率：24.48req/s] [内存消耗：2,402.70kb] [文件加载：80]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '289',
+  'content-type' => 'multipart/form-data; boundary=--------------------------567326097207586593207483',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '3807ef0a-b0c0-4400-87ad-7ed40e0cbe8d',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001401s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007168s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000399s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:42:06+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.048302s] [吞吐率：20.70req/s] [内存消耗：2,402.70kb] [文件加载：80]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '288',
+  'content-type' => 'multipart/form-data; boundary=--------------------------220134681785240934762414',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'f898c95f-6d9a-48ea-afed-834d8e699958',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002191s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.011335s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000315s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:42:18+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.057767s] [吞吐率：17.31req/s] [内存消耗：2,416.73kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------362947128178598869653069',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '924bed2e-5985-416c-aa6c-7eccdbc7218f',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '888888',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001434s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009966s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009978s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000378s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:42:28+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.056463s] [吞吐率：17.71req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------595370264816938260869042',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '7ff36a3b-bcfc-4628-84d4-6694f08ac2ec',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001664s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.009494s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007516s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000287s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '8d3f149a14942cf48c9cbd7518886489' , `salt` = '3072bdcea'  WHERE  `id` = 1 [ RunTime:0.000247s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:43:05+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.070995s] [吞吐率：14.09req/s] [内存消耗：2,414.16kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '284',
+  'content-type' => 'multipart/form-data; boundary=--------------------------604361246156874272003919',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '1df1ef4c-8b68-4a5d-a410-675618303adf',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010600s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008784s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000313s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007203s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000297s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '76b8550712cabb1b3da4deae7a38a381' , `expire_at` = 1542361385  WHERE  `manager_id` = 2 [ RunTime:0.000291s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000328s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:43:15+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.053926s] [吞吐率：18.54req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------889113239698412247577491',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '5752f830-f0c4-4160-a7d3-e89ab582f09e',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001563s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008159s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000303s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007063s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000279s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '92fd63d747a0d49d94b9a76d291f9aec' , `salt` = '6481cebda'  WHERE  `id` = 1 [ RunTime:0.000324s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:43:16+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.058309s] [吞吐率：17.15req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------110002538212223720727576',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '2de67a95-455d-4012-831e-bdf3e4fbbc1a',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001885s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.006872s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000381s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007759s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000365s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = 'd58a687de5e94a2a75f06eacbff3ff95' , `salt` = '1639bdcae'  WHERE  `id` = 1 [ RunTime:0.000338s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:43:26+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.056487s] [吞吐率：17.70req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------932699653943755165701443',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'e35eaf7b-fbc0-4bfa-b442-cf846ca590ed',
+  'cache-control' => 'no-cache',
+  'authorizations' => 'eb14f773fdf7ab0d07a689cb186c94b9',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003298s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007476s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = 'eb14f773fdf7ab0d07a689cb186c94b9' LIMIT 1 [ RunTime:0.000301s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006564s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000281s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '42d602c650a9249bf155b58d58f40539' , `salt` = '7102aecbd'  WHERE  `id` = 1 [ RunTime:0.000265s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:46:10+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.048954s] [吞吐率：20.43req/s] [内存消耗：2,278.16kb] [文件加载：80]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------048076612265490328833370',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '7bf19e95-8490-4106-a8ae-90ed42420465',
+  'cache-control' => 'no-cache',
+  'authorizations' => '42d602c650a9249bf155b58d58f40539',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001392s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007958s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = '42d602c650a9249bf155b58d58f40539' LIMIT 1 [ RunTime:0.000319s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:47:01+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.084607s] [吞吐率：11.82req/s] [内存消耗：2,414.16kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '284',
+  'content-type' => 'multipart/form-data; boundary=--------------------------821722553001513633146381',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '182a194a-f83f-499a-b1b3-9f521542f118',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028053s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.011299s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000308s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007545s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000314s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = 'a8cd856535489fe532060a6ce9bd7d0f' , `expire_at` = 1542361621  WHERE  `manager_id` = 2 [ RunTime:0.000250s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000295s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:47:22+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.057138s] [吞吐率：17.50req/s] [内存消耗：2,414.16kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '284',
+  'content-type' => 'multipart/form-data; boundary=--------------------------647532336420618091132324',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'cc69814e-9a7b-4e47-a65a-fc88605bb504',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001540s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.009095s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007333s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000312s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '4cf77e3222e1a97f883db84a21717918' , `expire_at` = 1542361642  WHERE  `manager_id` = 2 [ RunTime:0.000274s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000243s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:47:28+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.065257s] [吞吐率：15.32req/s] [内存消耗：2,414.16kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '284',
+  'content-type' => 'multipart/form-data; boundary=--------------------------759660988905056204858810',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '0dbac788-c7dd-4b00-ac97-046338d0498c',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011215s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.006962s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000515s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007249s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000387s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '381a955a5712acebc9c3b41c6cc6472a' , `expire_at` = 1542361648  WHERE  `manager_id` = 2 [ RunTime:0.000330s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000335s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:48:00+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.057199s] [吞吐率：17.48req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------111831997877542447926986',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '334dda30-ceb7-4548-a525-f54913aa9519',
+  'cache-control' => 'no-cache',
+  'authorizations' => '381a955a5712acebc9c3b41c6cc6472a',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004085s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007285s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = '381a955a5712acebc9c3b41c6cc6472a' LIMIT 1 [ RunTime:0.000333s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008138s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000343s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '6e6156b734bdd78cbe4c48b3ac581f07' , `salt` = '1467daebc'  WHERE  `id` = 2 [ RunTime:0.000257s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:48:06+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.053610s] [吞吐率：18.65req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------842454741543089779438942',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '4e9d15e8-4187-40fc-bac6-e66f2a4a61f4',
+  'cache-control' => 'no-cache',
+  'authorizations' => '381a955a5712acebc9c3b41c6cc6472a',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001446s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.007126s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = '381a955a5712acebc9c3b41c6cc6472a' LIMIT 1 [ RunTime:0.000309s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.007309s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = '087bdf01e5319de46c3b364d203b0573' , `salt` = '1928bedca'  WHERE  `id` = 2 [ RunTime:0.000311s ]
+---------------------------------------------------------------
+[ 2018-10-17T17:48:07+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/manager/changepassword
+[运行时间：0.060133s] [吞吐率：16.63req/s] [内存消耗：2,382.79kb] [文件加载：82]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '405',
+  'content-type' => 'multipart/form-data; boundary=--------------------------685250400652827267783381',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => '7264f731-c0cb-4a6d-950d-44cdbb44def9',
+  'cache-control' => 'no-cache',
+  'authorizations' => '381a955a5712acebc9c3b41c6cc6472a',
+)
+[ info ] [ PARAM ] array (
+  'admin/manager/changepassword' => '',
+  'oldpassword' => '666666',
+  'newpassword' => '666666',
+  'oncepassword' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001689s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.010243s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `token` = '381a955a5712acebc9c3b41c6cc6472a' LIMIT 1 [ RunTime:0.000349s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.008998s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000317s ]
+[ sql ] [ SQL ] UPDATE `dds_manager`  SET `password` = 'cb368892b9dc10892ab28f7427958fdc' , `salt` = '6353cbeda'  WHERE  `id` = 2 [ RunTime:0.000255s ]
