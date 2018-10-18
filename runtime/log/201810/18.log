@@ -1,0 +1,30 @@
+---------------------------------------------------------------
+[ 2018-10-18T14:28:39+08:00 ] 127.0.0.1 POST dadongsheng.com/admin/login/login
+[运行时间：0.094804s] [吞吐率：10.55req/s] [内存消耗：2,414.15kb] [文件加载：81]
+[ info ] [ LANG ] D:\WWW\dds\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'content-length' => '284',
+  'content-type' => 'multipart/form-data; boundary=--------------------------649134193153911389785068',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => 'dadongsheng.com',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.3.0',
+  'postman-token' => 'bbc977f8-8154-4027-9c88-a0d394dff6c7',
+  'cache-control' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+  'admin/login/login' => '',
+  'username' => 'xiaoming',
+  'password' => '666666',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029312s ] mysql:host=127.0.0.1;dbname=dds;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_manager` [ RunTime:0.010464s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_manager` WHERE  `username` = 'xiaoming' LIMIT 1 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dds_admintoken` [ RunTime:0.008489s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000353s ]
+[ sql ] [ SQL ] UPDATE `dds_admintoken`  SET `token` = '6ce7ffe0153ed50146d95f5dffd8db74' , `expire_at` = 1542436119  WHERE  `manager_id` = 2 [ RunTime:0.001845s ]
+[ sql ] [ SQL ] SELECT * FROM `dds_admintoken` WHERE  `manager_id` = 2 LIMIT 1 [ RunTime:0.000414s ]
